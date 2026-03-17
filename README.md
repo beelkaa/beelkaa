@@ -14,7 +14,6 @@ I'm also working on a startup idea on the side.
 
 **Fun Facts:**
 
-- 🇩🇿 Building from Algeria
 - 🏎️ F1 fan and proud member of ENP Racing Team — Algeria's first Formula Student team
 - 🔧 I like understanding *why* things work, not just *that* they work
 - 📈 Currently obsessed with closing the gap between ML theory and real engineering
