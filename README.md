@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Belkacem, a student & builder based in Algeria.
+I'm Belkacem, Data science & AI Engineering student & builder based in Algeria.
 
 I learn by doing — if there's a problem worth solving, I'll figure it out and build it.
 
